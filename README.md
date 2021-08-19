@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jtdance
+- 👋 Hi, I’m Justin Dance
 - 👀 I’m interested in building web applications 
-- 🌱 I’m currently learning HTML, CSS , and JS.
+- 🌱 I’m currently learning HTML, CSS, and JS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
